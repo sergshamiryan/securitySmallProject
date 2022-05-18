@@ -1,3 +1,4 @@
+/*
 package com.example.securitysmallproject.configs;
 
 import com.example.securitysmallproject.securityService.AuthenticationProviderService;
@@ -24,3 +25,4 @@ public class SecurityConfig extends WebSecurityConfigurerAdapter {
         auth.authenticationProvider(authenticationProviderService);
     }
 }
+*/
